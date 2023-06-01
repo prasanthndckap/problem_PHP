@@ -1,3 +1,5 @@
+<?php
+
 $Input_Num = readline("Enter a Table Number:");
 $table=readline("limit:");
 
